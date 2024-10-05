@@ -1,4 +1,4 @@
-# kof.github.io
+
 <!DOCTYPE HTML>
 <html lang=”ru”>
 <head>
