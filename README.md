@@ -6,9 +6,15 @@
 </head>
 <body>
     <div id="main">
-    <h1>кофе</h1>
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/2238913464890437758/526804F6C6273AD145C681747A3B3AF98D762BFF/">
-    <p>вкуснейший кофе</p>
-    <button id="buy">купить</button>
+    <h1>кофе</h1> 
+     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Pfeil.png" alt=width="1000" height="13">
+     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
+     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
+     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
+     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
+     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
+     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
+     <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
 </body>
 </html>
