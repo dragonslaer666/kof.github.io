@@ -3,7 +3,7 @@
 <html lang=”ru”>
 <head>
     <meta charset=”UTF-8″>
-    <title>ебаное кофе</title>
+    ебаное кофе
 </head>
 <body>
     <div id="main">
